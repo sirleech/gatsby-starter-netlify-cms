@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: This should make a git commit
+title: Testing content from git
 date: 2018-05-04T22:39:53.495Z
 description: Let's see how netlify cms makes git commits.
 tags:
